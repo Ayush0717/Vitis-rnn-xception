@@ -1,0 +1,58 @@
+---
+MainSourceFile:  'D:/work_station/es_proj/es_proj/solution1/.autopilot/db/code.pp.0.cpp'
+Diagnostics:     
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_24_1:  '
+    FileOffset:      24
+    FilePath:        code.cpp
+    Replacements:    
+      - FilePath:        'D:\work_station\es_proj\es_proj\solution1\.autopilot\db\code.pp.0.cpp'
+        Offset:          111131
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_24_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_29_2:  '
+    FileOffset:      29
+    FilePath:        code.cpp
+    Replacements:    
+      - FilePath:        'D:\work_station\es_proj\es_proj\solution1\.autopilot\db\code.pp.0.cpp'
+        Offset:          111221
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_29_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_36_3:  '
+    FileOffset:      36
+    FilePath:        code.cpp
+    Replacements:    
+      - FilePath:        'D:\work_station\es_proj\es_proj\solution1\.autopilot\db\code.pp.0.cpp'
+        Offset:          111358
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_36_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_45_4:  '
+    FileOffset:      45
+    FilePath:        code.cpp
+    Replacements:    
+      - FilePath:        'D:\work_station\es_proj\es_proj\solution1\.autopilot\db\code.pp.0.cpp'
+        Offset:          111530
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_45_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_51_5:  '
+    FileOffset:      51
+    FilePath:        code.cpp
+    Replacements:    
+      - FilePath:        'D:\work_station\es_proj\es_proj\solution1\.autopilot\db\code.pp.0.cpp'
+        Offset:          111634
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_51_5: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_55_6:  '
+    FileOffset:      55
+    FilePath:        code.cpp
+    Replacements:    
+      - FilePath:        'D:\work_station\es_proj\es_proj\solution1\.autopilot\db\code.pp.0.cpp'
+        Offset:          111727
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_55_6: '
+...

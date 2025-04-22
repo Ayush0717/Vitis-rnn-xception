@@ -1,0 +1,23 @@
+[
+  {
+    "functionLabel": "",
+    "functionName": "rnn_forward",
+    "id": 0,
+    "ifcond": "",
+    "insert_position": "",
+    "label": "",
+    "pragma": {
+      "name": "TOP",
+      "option": [
+        {
+          "name": "name",
+          "value": "rnn_forward"
+        }
+      ]
+    },
+    "slx": false,
+    "sourceFile": "D:/work_station/es_proj/es_proj/solution1/csynth.tcl",
+    "sourceLine": 16,
+    "success": true
+  }
+]
